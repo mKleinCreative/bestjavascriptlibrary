@@ -16,7 +16,7 @@ Creates an array of elements split by the length of the size parameter given. If
 array(Array): The array to process
 [size=1](number): The length of each chunk
 
-##### Returns: 
+##### Returns: asfd
 The new array of chunks
 
 ##### Example:
